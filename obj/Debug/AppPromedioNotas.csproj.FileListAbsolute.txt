@@ -1,0 +1,5 @@
+D:\Universidad\8 SEMESTRE\TELEMATICA\C char\AppPromedioNotas\AppPromedioNotas\bin\Debug\AppPromedioNotas.exe.config
+D:\Universidad\8 SEMESTRE\TELEMATICA\C char\AppPromedioNotas\AppPromedioNotas\bin\Debug\AppPromedioNotas.exe
+D:\Universidad\8 SEMESTRE\TELEMATICA\C char\AppPromedioNotas\AppPromedioNotas\bin\Debug\AppPromedioNotas.pdb
+D:\Universidad\8 SEMESTRE\TELEMATICA\C char\AppPromedioNotas\AppPromedioNotas\obj\Debug\AppPromedioNotas.exe
+D:\Universidad\8 SEMESTRE\TELEMATICA\C char\AppPromedioNotas\AppPromedioNotas\obj\Debug\AppPromedioNotas.pdb
